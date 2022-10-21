@@ -1,1 +1,2 @@
 # HoneybushModel_Results_and_Analysis
+This repo contains the .csv files for results from simulation runs of the Honeybush model. It also contains the python notebook used to plot graphs and interpret the resuts. 
